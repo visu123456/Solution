@@ -1,0 +1,14 @@
+eater_id:1 , foodmenu_id:Dosa
+eater_id:2 , foodmenu_id:panipuri
+eater_id:1, foodmenu_id:Pizza
+eater_id:14 , foodmenu_id:Hotdog
+eater_id:12 , foodmenu_id:Burger
+eater_id:10 , foodmenu_id:Pizza
+eater_id:10, foodmenu_id:Dosa
+eater_id:15 , foodmenu_id:Cake
+eater_id:16 , foodmenu_id:Pizza
+eater_id:16, foodmenu_id:Sendwich
+eater_id:16 , foodmenu_id:Dosa
+eater_id:20 , foodmenu_id:Pizza
+eater_id:20 , foodmenu_id:Dosa
+eater_id:21 , foodmenu_id:Cake
